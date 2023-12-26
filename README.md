@@ -6,4 +6,4 @@
 
 - Item A
 - Item B
-- ![#1589F0] Item C
+- ![#1589F0] `Item C`
