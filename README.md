@@ -6,4 +6,4 @@
 
 - Item A
 - Item B
-- $\color{#F0F8FF}Item C$
+- $\color{#F0F8FF} \text{Item C}$
