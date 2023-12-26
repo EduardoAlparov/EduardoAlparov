@@ -2,7 +2,6 @@
 
 ## and I am frontend developer.
 
-```diff
 #### My skills:
 
 - Item A
