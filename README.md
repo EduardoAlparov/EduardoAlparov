@@ -2,9 +2,8 @@
 
 ## and I am frontend developer.
 
-#### My skills: (-)
+#### My skills:
 
 - Item A
 - Item B
 - Item C
-     
