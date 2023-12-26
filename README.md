@@ -4,5 +4,5 @@
 
 #### My skills:
 
-- $\textcolor{#F0F8FF} {HTML}$
+- $\textcolor{#F0F8FF} HTML$
 - Item B
