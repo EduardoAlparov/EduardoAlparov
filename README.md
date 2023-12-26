@@ -6,4 +6,4 @@
 
 - Item A
 - Item B
-- $${\color{red}Red}$$
+- $${\color{red}Item C}$$
