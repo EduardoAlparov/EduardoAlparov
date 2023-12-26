@@ -4,5 +4,5 @@
 
 #### My skills:
 
-- <font color='red'>HTML</font>
+- $\color{color-code}{your-text-here}$
 - Item B
