@@ -4,6 +4,5 @@
 
 #### My skills:
 
-- HTML
+- <font color='red'>HTML</font>
 - Item B
-- $\colorbox{green}{{\color{#F0F8FF} \text{Item C}}}$
