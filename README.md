@@ -6,4 +6,4 @@
 
 - HTML
 - Item B
-- $\color{#F0F8FF} \text{Item C}$
+- $\colorbox{green}{\color{#F0F8FF} \text{Item C}}$
