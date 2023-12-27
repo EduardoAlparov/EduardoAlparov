@@ -3,12 +3,12 @@
 
 #### My skills:
 
-- $\textcolor{#F0F8FF} HTML/Pug$
-- $\textcolor{#F0F8FF} CSS/SCSS$
-- $\textcolor{#F0F8FF} JS$
-- $\textcolor{#F0F8FF} Vue.js/Nuxt$ 
-- $\textcolor{#F0F8FF} Gulp/Webpack/Vite$ 
-- $\textcolor{#F0F8FF} Git$ 
+- $`\textcolor{#F0F8FF}{\textsf{HTML/Pug}}`$
+- $`\textcolor{#F0F8FF}{\textsf{CSS/SCSS}}`$
+- $`\textcolor{#F0F8FF}{\textsf{JS}}`$
+- $`\textcolor{#F0F8FF}{\textsf{Vue.js/Nuxt}}`$
+- $`\textcolor{#F0F8FF}{\textsf{Gulp/Webpack/Vite}}`$
+- $`\textcolor{#F0F8FF}{\textsf{Git}}`$
 
 #### My experience:
 - $`\textcolor{#F0F8FF}{\textsf{Pug/Handlebars features}}`$
