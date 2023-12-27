@@ -31,4 +31,7 @@
 
 ## Completed courses:
 
-![The San Juan Mountains are beautiful!](/dev.png)
+<figure>
+    <img src="/dev.png">
+    <figcaption>Layout development basics</figcaption>
+</figure>
