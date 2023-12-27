@@ -13,10 +13,4 @@
 #### My experience:
 ```diff
 - RED text
-+ $\textcolor{#F0F8FF} {Pug/Handlebars features}$
-+ $\textcolor{#F0F8FF} {SCSS features}$
-+ $\textcolor{#F0F8FF} {Responsive and adaptive CSS, Mobile first CSS}$
-+ $\textcolor{#F0F8FF} Swiper/Flickity/Splide/Slick/Owl$
-+ $\textcolor{#F0F8FF} Fancybox/lightgallery.js/baguetteBox.js$
-+ $\textcolor{#F0F8FF} Parsley/Imusk/cleave.js$
 ```
