@@ -33,10 +33,9 @@
 <details>
 <summary><h2>Completed courses:</h2></summary>
     
-- $`{\textsf{Layout development basics -}}`$
-    
 <figure>
     <img width="40%" src="/dev.png">
+    <span>Layout development basics</span>
 </figure>
 
 </details>
