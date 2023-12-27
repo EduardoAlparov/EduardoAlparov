@@ -43,7 +43,7 @@
 </figure>
 
 
-<figure
+<figure>
     <img width="40%" src="/javascript.png">
     <figcaption>Vue.js for experienced developers.</figcaption>
 </figure>
