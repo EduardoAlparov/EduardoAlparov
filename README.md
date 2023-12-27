@@ -31,14 +31,14 @@
 
 ## Completed courses:
 
-<figure style="margin-bottom:40px">
+<figure>
     <img width="40%" src="/dev.png">
-    <figcaption>Layout development basics.</figcaption>
+    <figcaption style="margin-bottom:40px">Layout development basics.</figcaption>
 </figure>
 
-<figure style="margin-bottom:40px">
+<figure>
     <img width="40%" src="/javascript.png">
-    <figcaption>Comprehensive javascript training.</figcaption>
+    <figcaption style="margin-bottom:40px">Comprehensive javascript training.</figcaption>
 </figure>
 
 <figure>
