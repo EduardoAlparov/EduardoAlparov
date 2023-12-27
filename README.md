@@ -1,6 +1,8 @@
 # Hello, my name is Eduard Alparov,
 
-# $`{\color{#DA70D6}\textsf{and I am frontend developer.}}`$
+# $`{\color{#DA70D6}\textsf{and I am frontend developer}}`$
+
+# $`{\color{#9370DB}\textsf{from Kazan-city, Russia.}}`$
 
 ## My skills:
 
