@@ -31,19 +31,17 @@
 
 ## Completed courses:
 
+- $`{\textsf{Layout development basics.}}`$
 <figure>
     <img width="40%" src="/dev.png">
 </figure>
 
-- $`{\textsf{Layout development basics.}}`$
-
+- $`{\textsf{Comprehensive javascript training.}}`$
 <figure>
     <img width="40%" src="/javascript.png">
-    <figcaption style="margin-bottom:40px">Comprehensive javascript training.</figcaption>
 </figure>
 
-
+- $`{\textsf{Vue.js for experienced developers.}}`$
 <figure>
     <img width="40%" src="/vue.png">
-    <figcaption>Vue.js for experienced developers.</figcaption>
 </figure>
