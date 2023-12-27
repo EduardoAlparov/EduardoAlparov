@@ -34,7 +34,8 @@
 <figure>
     <img width="40%" src="/dev.png">
 </figure>
-*Layout development basics.*
+
+- $`{\textsf{Layout development basics.}}`$
 
 <figure>
     <img width="40%" src="/javascript.png">
