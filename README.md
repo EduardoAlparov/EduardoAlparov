@@ -36,9 +36,10 @@
             Completed courses:
         </h2>
     </summary>
+    
+- $`{\textsf{Layout development basics -}}`$
 
 <figure>
-    <figcaption>Layout development basics -</figcaption>
     <img width="40%" src="/dev.png">
 </figure>
 
