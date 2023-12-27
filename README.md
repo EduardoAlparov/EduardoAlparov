@@ -12,5 +12,5 @@
 
 #### My experience:
 
-$`\textcolor{red}{\textsf{Parsley/Imusk/cleave.js sdsdf}}`$
+- $`\textcolor{red}{\textsf{Parsley/Imusk/cleave.js sdsdf}}`$
 
