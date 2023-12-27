@@ -36,20 +36,10 @@
             Completed courses:
         </h2>
     </summary>
-    ```
-    - $`{\textsf{Layout development basics -}}`$
+
     <figure>
+        <figcaption>Layout development basics -</figcaption>
         <img width="40%" src="/dev.png">
     </figure>
-    
-    - $`{\textsf{Comprehensive javascript training -}}`$
-    <figure>
-        <img width="40%" src="/javascript.png">
-    </figure>
-    
-    - $`{\textsf{Vue.js for experienced developers -}}`$
-    <figure>
-        <img width="40%" src="/vue.png">
-    </figure>
-    ```
+
 </details>
