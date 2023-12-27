@@ -19,5 +19,6 @@
 - $`{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
 - $`{\textsf{Parsley/Imusk/cleave.js}}`$
 
-### Portfolio(5 favorite projects)
-## Pevek commercial port(Торговый порт Певек) - [GitHub](https://github.com/EduardoAlparov/morport-pevek) - [Website](https://morport-pevek.ru/)
+## Portfolio(5 favorite projects):
+
+- ### Pevek commercial port(Торговый порт Певек) - [GitHub](https://github.com/EduardoAlparov/morport-pevek) - [Website](https://morport-pevek.ru/)
