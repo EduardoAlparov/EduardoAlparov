@@ -25,3 +25,4 @@
 - ### Neon-art(Производственный комплекс Neon-art) - [GitHub](https://github.com/EduardoAlparov/neon-art) - [Website](https://www.neonart.ru/lp/jobs/)
 - ### Spectechnika(Спецтехника) - [GitHub](https://github.com/EduardoAlparov/spectechnika) - [Website](https://eduardoalparov.github.io/spectechnika/)
 - ### ANGARSTROY(АНГАРСТРОЙ) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://eduardoalparov.github.io/accent-Hangar/)
+- ### PC Profsnab(ПК Профснаб) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://pk-profsnab.ru/)
