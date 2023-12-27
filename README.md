@@ -31,12 +31,17 @@
 
 ## Completed courses:
 
-<figure>
+<figure style="margin-bottom: 40px">
     <img width="40%" src="/dev.png">
     <figcaption>Layout development basics.</figcaption>
 </figure>
 
-<figure>
+<figure style="margin-bottom: 40px">
     <img width="40%" src="/javascript.png">
     <figcaption>Comprehensive javascript training.</figcaption>
+</figure>
+
+<figure>
+    <img width="40%" src="/javascript.png">
+    <figcaption>Vue.js for experienced developers.</figcaption>
 </figure>
