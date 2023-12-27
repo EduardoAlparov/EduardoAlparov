@@ -35,7 +35,7 @@
     
 <figure>
     <img width="40%" src="/dev.png">
-    <span>Layout development basics</span>
+    <figcaption>Layout development basics</figcaption>
 </figure>
 
 </details>
