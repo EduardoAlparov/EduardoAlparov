@@ -34,7 +34,7 @@
 <summary><h2>Completed courses:</h2></summary>
     
 <figure>
-    <img width="40%" src="/dev.png">
+    <img src="/dev.png">
     <figcaption>Layout development basics</figcaption>
 </figure>
 
