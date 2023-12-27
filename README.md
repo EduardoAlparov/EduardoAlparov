@@ -32,6 +32,6 @@
 ## Completed courses:
 
 <figure>
-    <img src="/dev.png">
+    <img width="50%" src="/dev.png">
     <figcaption>Layout development basics</figcaption>
 </figure>
