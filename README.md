@@ -3,17 +3,17 @@
 
 #### My skills:
 
-- $`\textcolor{#F0F8FF}{\textsf{HTML/Pug}}`$
-- $`\textcolor{#F0F8FF}{\textsf{CSS/SCSS}}`$
-- $`\textcolor{#F0F8FF}{\textsf{JS}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Vue.js/Nuxt}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Gulp/Webpack/Vite}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Git}}`$
+- $`{\textsf{HTML/Pug}}`$
+- $`{\textsf{CSS/SCSS}}`$
+- $`{\textsf{JS}}`$
+- $`{\textsf{Vue.js/Nuxt}}`$
+- $`{\textsf{Gulp/Webpack/Vite}}`$
+- $`{\textsf{Git}}`$
 
 #### My experience:
-- $`\textcolor{#F0F8FF}{\textsf{Pug/Handlebars features}}`$
-- $`\textcolor{#F0F8FF}{\textsf{SCSS features}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Responsive and adaptive CSS, Mobile first CSS}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
-- $`\textcolor{#F0F8FF}{\textsf{Parsley/Imusk/cleave.js}}`$
+- $`{\textsf{Pug/Handlebars features}}`$
+- $`{\textsf{SCSS features}}`$
+- $`{\textsf{Responsive and adaptive CSS, Mobile first CSS}}`$
+- $`{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
+- $`{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
+- $`{\textsf{Parsley/Imusk/cleave.js}}`$
