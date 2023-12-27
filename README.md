@@ -11,7 +11,7 @@
 - $\textcolor{#F0F8FF} Git$ 
 
 #### My experience:
-- $\textcolor{#F0F8FF} <p>Hi here is some text this is red.</p>$
+- <p>Hi here is some text this is red.</p>
 - $\textcolor{#F0F8FF} {Pug/Handlebars features}$
 - $\textcolor{#F0F8FF} {SCSS features}$
 - $\textcolor{#F0F8FF} {Responsive and adaptive CSS, Mobile first CSS}$
