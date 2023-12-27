@@ -20,4 +20,4 @@
 - $`{\textsf{Parsley/Imusk/cleave.js}}`$
 
 ### Portfolio(5 favorite projects)
-## Певек - [Репо](https://github.com/EduardoAlparov/morport-pevek).
+## Pevek commercial port(Торговый порт Певек) - [GitHub](https://github.com/EduardoAlparov/morport-pevek) - [Website](https://morport-pevek.ru/)
