@@ -34,13 +34,16 @@
 <figure>
     <img width="40%" src="/dev.png">
     <figcaption style="margin-bottom:40px">Layout development basics.</figcaption>
+</figure>
 
+
+<figure>
     <img width="40%" src="/javascript.png">
     <figcaption style="margin-bottom:40px">Comprehensive javascript training.</figcaption>
 </figure>
 
 
-<figure>
+<figure
     <img width="40%" src="/javascript.png">
     <figcaption>Vue.js for experienced developers.</figcaption>
 </figure>
