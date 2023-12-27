@@ -12,7 +12,7 @@
 
 ```diff
 #### My experience:
-+ ![#f03c15] {this is red}
+- RED text
 + $\textcolor{#F0F8FF} {Pug/Handlebars features}$
 + $\textcolor{#F0F8FF} {SCSS features}$
 + $\textcolor{#F0F8FF} {Responsive and adaptive CSS, Mobile first CSS}$
