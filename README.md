@@ -31,7 +31,11 @@
 
 
 <details>
-    <summary>Completed courses:</summary>
+    <summary>
+        <h2>
+            Completed courses:
+        </h2>
+    </summary>
     
     - $`{\textsf{Layout development basics -}}`$
     <figure>
