@@ -1,5 +1,8 @@
 # Hello, my name is Eduard Alparov,
-## -$`\textcolor{#FF4500}{\textsf{and I am frontend developer.}}`}$
+## 
+```
+-$`\textcolor{#FF4500}{\textsf{and I am frontend developer.}}`}$
+```
 
 #### My skills:
 
