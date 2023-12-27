@@ -27,3 +27,4 @@
 - ### Spectechnika(Спецтехника) - [GitHub](https://github.com/EduardoAlparov/spectechnika) - [Website](https://eduardoalparov.github.io/spectechnika/)
 - ### ANGARSTROY(АНГАРСТРОЙ) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://eduardoalparov.github.io/accent-Hangar/)
 - ### PC Profsnab(ПК Профснаб) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://pk-profsnab.ru/)
+- ### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://eduardoalparov.github.io/coolslider)
