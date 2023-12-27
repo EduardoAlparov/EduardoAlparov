@@ -29,19 +29,23 @@
 - ### PC Profsnab(ПК Профснаб) - [GitHub](https://github.com/EduardoAlparov/PROFSNAB) - [Website](https://pk-profsnab.ru/)
 - ### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/coolslider) - [Website](https://eduardoalparov.github.io/coolslider)
 
-## Completed courses:
 
-- $`{\textsf{Layout development basics -}}`$
-<figure>
-    <img width="40%" src="/dev.png">
-</figure>
+<details>
+    <summary>Completed courses:</summary>
+    
+    - $`{\textsf{Layout development basics -}}`$
+    <figure>
+        <img width="40%" src="/dev.png">
+    </figure>
+    
+    - $`{\textsf{Comprehensive javascript training -}}`$
+    <figure>
+        <img width="40%" src="/javascript.png">
+    </figure>
+    
+    - $`{\textsf{Vue.js for experienced developers -}}`$
+    <figure>
+        <img width="40%" src="/vue.png">
+    </figure>
 
-- $`{\textsf{Comprehensive javascript training -}}`$
-<figure>
-    <img width="40%" src="/javascript.png">
-</figure>
-
-- $`{\textsf{Vue.js for experienced developers -}}`$
-<figure>
-    <img width="40%" src="/vue.png">
-</figure>
+</details>
