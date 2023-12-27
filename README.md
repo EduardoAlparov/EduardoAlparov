@@ -2,7 +2,7 @@
 
 # $`{\color{#DA70D6}\textsf{and I am frontend developer.}}`$
 
-#### My skills:
+## My skills:
 
 - $`{\textsf{HTML/Pug}}`$
 - $`{\textsf{CSS/SCSS}}`$
@@ -11,10 +11,12 @@
 - $`{\textsf{Gulp/Webpack/Vite}}`$
 - $`{\textsf{Git}}`$
 
-#### My experience:
+## My experience:
 - $`{\textsf{Pug/Handlebars features}}`$
 - $`{\textsf{SCSS features}}`$
 - $`{\textsf{Responsive and adaptive CSS, Mobile first CSS}}`$
 - $`{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
 - $`{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
 - $`{\textsf{Parsley/Imusk/cleave.js}}`$
+
+### Portfolio
