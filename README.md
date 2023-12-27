@@ -1,4 +1,4 @@
-# \color{#F0F8FF} Hello, my name is Eduard Alparov, 
+# \color{#F0F8FF} {Hello, my name is Eduard Alparov,} 
 
 ## and I am frontend developer.
 
