@@ -16,4 +16,4 @@
 - $`\textcolor{#F0F8FF}{\textsf{Responsive and adaptive CSS, Mobile first CSS}}`$
 - $`\textcolor{#F0F8FF}{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
 - $`\textcolor{#F0F8FF}{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
-- $`\textcolor{{#F0F8FF}{\textsf{Parsley/Imusk/cleave.js}}`$
+- $`\textcolor{#F0F8FF}{\textsf{Parsley/Imusk/cleave.js}}`$
