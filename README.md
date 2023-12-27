@@ -1,5 +1,4 @@
-# $\color{#F0F8FF} {Hello, my name is Eduard Alparov,}$
-
+# Hello, my name is Eduard Alparov,
 ## and I am frontend developer.
 
 > #### My skills:
