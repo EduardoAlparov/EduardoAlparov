@@ -10,6 +10,7 @@
 - $\textcolor{#F0F8FF} Gulp/Webpack/Vite$ 
 - $\textcolor{#F0F8FF} Git$ 
 
+```diff
 #### My experience:
 - ![#f03c15] {this is red}
 - $\textcolor{#F0F8FF} {Pug/Handlebars features}$
@@ -18,3 +19,4 @@
 - $\textcolor{#F0F8FF} Swiper/Flickity/Splide/Slick/Owl$
 - $\textcolor{#F0F8FF} Fancybox/lightgallery.js/baguetteBox.js$
 - $\textcolor{#F0F8FF} Parsley/Imusk/cleave.js$
+```
