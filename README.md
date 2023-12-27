@@ -38,7 +38,6 @@
     </summary>
     
 - $`{\textsf{Layout development basics -}}`$
-
 <figure>
     <img width="40%" src="/dev.png">
 </figure>
