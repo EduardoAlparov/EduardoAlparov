@@ -16,6 +16,7 @@
 - $`{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
 - $`{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
 - $`{\textsf{Parsley/Imusk/cleave.js}}`$
+- $`{\textsf{Lazy loading content}}`$
 
 ## Portfolio(favorite projects):
 
@@ -23,3 +24,4 @@
 - ### Checking Carriers(Сервис проверки авто Checking Carriers) - [GitHub](https://github.com/EduardoAlparov/CheckingCarrier) - [Website](https://info.checking-carriers.ru/)
 - ### Neon-art(Производственный комплекс Neon-art) - [GitHub](https://github.com/EduardoAlparov/neon-art) - [Website](https://www.neonart.ru/lp/jobs/)
 - ### Spectechnika(Спецтехника) - [GitHub](https://github.com/EduardoAlparov/spectechnika) - [Website](https://eduardoalparov.github.io/spectechnika/)
+- ### ANGARSTROY(АНГАРСТРОЙ) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://eduardoalparov.github.io/accent-Hangar/)
