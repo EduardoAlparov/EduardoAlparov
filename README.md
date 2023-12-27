@@ -1,4 +1,4 @@
-# Hello, my name is Eduard Alparov,
+# $`{\color{#DDA0DD}\textsf{Hello, my name is Eduard Alparov,}}`$
 
 # $`{\color{#DA70D6}\textsf{and I am frontend developer}}`$
 
