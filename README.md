@@ -37,9 +37,9 @@
         </h2>
     </summary>
 
-    <figure>
-        <figcaption>Layout development basics -</figcaption>
-        <img width="40%" src="/dev.png">
-    </figure>
+<figure>
+    <figcaption>Layout development basics -</figcaption>
+    <img width="40%" src="/dev.png">
+</figure>
 
 </details>
