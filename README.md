@@ -11,6 +11,6 @@
 - $\textcolor{#F0F8FF} Git$ 
 
 #### My experience:
-```
-$`\textcolor{red}{\textsf{Parsley/Imusk/cleave.js}}`$
-```
+
+`\textcolor{red}{\textsf{Parsley/Imusk/cleave.js}}`
+
