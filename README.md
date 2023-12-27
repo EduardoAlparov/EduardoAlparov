@@ -36,7 +36,7 @@
             Completed courses:
         </h2>
     </summary>
-    
+    ```
     - $`{\textsf{Layout development basics -}}`$
     <figure>
         <img width="40%" src="/dev.png">
@@ -51,5 +51,5 @@
     <figure>
         <img width="40%" src="/vue.png">
     </figure>
-
+    ```
 </details>
