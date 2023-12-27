@@ -35,17 +35,17 @@
     
 <figure>
     <img width="100%" src="/dev.png">
-    <figcaption>Layout development basics</figcaption>
+    <figcaption>&#10149; Layout development basics</figcaption>
 </figure>
     
 <figure>
     <img width="100%" src="/javascript.png">
-    <figcaption>Comprehensive javascript training</figcaption>
+    <figcaption>&#10149; Comprehensive javascript training</figcaption>
 </figure>
     
 <figure>
     <img width="100%" src="/vue.png">
-    <figcaption>Vue.js for experienced developers</figcaption>
+    <figcaption>&#10149; Vue.js for experienced developers</figcaption>
 </figure>
 
 </details>
