@@ -14,6 +14,7 @@
 - $`{\textsf{SCSS features}}`$
 - $`{\textsf{Responsive and adaptive CSS, Mobile first CSS}}`$
 - $`{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
+- $`{\textsf{GoogleMaps/ЯндексКарты}}`$
 - $`{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
 - $`{\textsf{Parsley/Imusk/cleave.js}}`$
 - $`{\textsf{Lazy loading content}}`$
