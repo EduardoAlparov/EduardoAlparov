@@ -1,4 +1,6 @@
-# $`{\color{#9370DB}\textsf{Hello, my name is Eduard Alparov,}}`$<br> $`{\color{#DA70D6}\textsf{and I am frontend developer}}`$<br> $`{\color{#DDA0DD}\textsf{from Kazan-city, Russia.}}`$
+# Hello, my name is Eduard Alparov,
+# and I am frontend developer
+# from Kazan-city, Russia.
 
 ## My skills:
 
