@@ -33,7 +33,7 @@
 - ### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/coolslider) - [Website](https://eduardoalparov.github.io/coolslider)
 
 ## Portfolio(another projects):
-[[GitHub](https://github.com/EduardoAlparov/morport-pevek)]
+[[(https://github.com/EduardoAlparov/morport-pevek)](https://github.com/EduardoAlparov/morport-pevek)]
 
 <details>
 <summary><h2>Completed courses:</h2></summary>
