@@ -14,7 +14,7 @@
 ## My experience:
 - $`{\textsf{Pug/Handlebars features}}`$
 - $`{\textsf{SCSS features}}`$
-- $`{\textsf{Responsive and adaptive CSS, Mobile first CSS}}`$
+- $`{\textsf{Responsive and adaptive layouts, Mobile first}}`$
 - $`{\textsf{Swiper/Flickity/Splide/Slick/Owl}}`$
 - $`{\textsf{GoogleMaps/ЯндексКарты}}`$
 - $`{\textsf{Fancybox/lightgallery.js/baguetteBox.js}}`$
@@ -33,7 +33,15 @@
 - ### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/coolslider) - [Website](https://eduardoalparov.github.io/coolslider)
 
 ## Portfolio(another projects):
-[[(https://github.com/EduardoAlparov/morport-pevek)](https://github.com/EduardoAlparov/morport-pevek)]
+- ### LoginivAgency - [[https://aaccent.github.io/loginov_layout/](https://aaccent.github.io/loginov_layout/)]
+- ### NewTech - [[https://aaccent.github.io/new-tech_layout/](https://aaccent.github.io/new-tech_layout/)]
+- ### SPK Draving - [[https://eduardoalparov.github.io/accentSPKdraving/](https://eduardoalparov.github.io/accentSPKdraving/)]
+- ### Грань керамика - [[https://eduardoalparov.github.io/accentEdgeCeramik/](https://eduardoalparov.github.io/accentEdgeCeramik/)]
+- ### Автострада - [[https://eduardoalparov.github.io/avtostrada/](https://eduardoalparov.github.io/avtostrada/)]
+- ### Optimus-bed - [[Website](https://optimusbed.ru/)]
+- ### Мак ЭКО - [[Website](https://mac-ivf.ru/bank-donorov/)]
+- ### PVP-Logistics - [[Website](http://pvp-logistics.ru/)]
+- ### Кузляр - [[Website](https://kyzler.ru/)]
 
 <details>
 <summary><h2>Completed courses:</h2></summary>
