@@ -31,7 +31,7 @@
 
 ## Кейсы:
 
-- ### Pevek commercial port(Торговый порт Певек) - [GitHub](https://github.com/EduardoAlparov/morport-pevek) - [Website](https://morport-pevek.ru/)
+- #### Pevek commercial port(Торговый порт Певек) - [GitHub](https://github.com/EduardoAlparov/morport-pevek) - [Website](https://morport-pevek.ru/)
 - ### Checking Carriers(Сервис проверки авто Checking Carriers) - [GitHub](https://github.com/EduardoAlparov/CheckingCarrier) - [Website](https://info.checking-carriers.ru/)
 - ### Neon-art(Производственный комплекс Neon-art) - [GitHub](https://github.com/EduardoAlparov/neon-art) - [Website](https://www.neonart.ru/lp/jobs/)
 - ### RETROVA - [GitHub](https://github.com/EduardoAlparov/accent-Retrova) - [Website](https://eduardoalparov.github.io/accent-Retrova/index.html)
@@ -39,8 +39,6 @@
 - ### ANGARSTROY(АНГАРСТРОЙ) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://eduardoalparov.github.io/accent-Hangar/)
 - ### PC Profsnab(ПК Профснаб) - [GitHub](https://github.com/EduardoAlparov/PROFSNAB) - [Website](https://pk-profsnab.ru/)
 - ### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/coolslider) - [Website](https://eduardoalparov.github.io/coolslider)
-
-## Portfolio(another projects):
 - ### LoginivAgency - [[https://aaccent.github.io/loginov_layout/](https://aaccent.github.io/loginov_layout/)]
 - ### NewTech - [[https://aaccent.github.io/new-tech_layout/](https://aaccent.github.io/new-tech_layout/)]
 - ### SPK Draving - [[https://eduardoalparov.github.io/accentSPKdraving/](https://eduardoalparov.github.io/accentSPKdraving/)]
