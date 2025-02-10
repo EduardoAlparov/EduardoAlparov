@@ -31,16 +31,15 @@
 
 ## Кейсы:
 
+- #### [Агентство Логинов](https://loginov.agency/)
 - #### [Торговый порт Певек](https://morport-pevek.ru/)
 - #### [Сервис проверки авто Checking Carriers](https://info.checking-carriers.ru/)
 - #### [Производственный комплекс Neon-art](https://www.neonart.ru/lp/jobs/)
 - #### [RETROVA](https://retrova.aaccent.su/)
 - #### [Спецтехника](https://eduardoalparov.github.io/spectechnika/)
 - #### [АНГАРСТРОЙ](https://eduardoalparov.github.io/accent-Hangar/)
-- #### PC Profsnab(ПК Профснаб) - [GitHub](https://github.com/EduardoAlparov/PROFSNAB) - [Website](https://pk-profsnab.ru/)
-- #### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/coolslider) - [Website](https://eduardoalparov.github.io/coolslider)
-- #### LoginivAgency - [[https://aaccent.github.io/loginov_layout/](https://aaccent.github.io/loginov_layout/)]
-- #### NewTech - [[https://aaccent.github.io/new-tech_layout/](https://aaccent.github.io/new-tech_layout/)]
+- #### [ПК Профснаб](https://pk-profsnab.ru/)
+- #### [NewTech](https://aaccent.github.io/new-tech_layout/)
 - #### SPK Draving - [[https://eduardoalparov.github.io/accentSPKdraving/](https://eduardoalparov.github.io/accentSPKdraving/)]
 - #### Грань керамика - [[https://eduardoalparov.github.io/accentEdgeCeramik/](https://eduardoalparov.github.io/accentEdgeCeramik/)]
 - #### Автострада - [[https://eduardoalparov.github.io/avtostrada/](https://eduardoalparov.github.io/avtostrada/)]
