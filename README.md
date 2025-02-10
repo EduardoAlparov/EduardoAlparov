@@ -35,8 +35,8 @@
 - #### [Сервис проверки авто Checking Carriers](https://info.checking-carriers.ru/)
 - #### [Производственный комплекс Neon-art](https://www.neonart.ru/lp/jobs/)
 - #### [RETROVA](https://retrova.aaccent.su/)
-- #### Spectechnika(Спецтехника) - [GitHub](https://github.com/EduardoAlparov/spectechnika) - [Website](https://eduardoalparov.github.io/spectechnika/)
-- #### ANGARSTROY(АНГАРСТРОЙ) - [GitHub](https://github.com/EduardoAlparov/accent-Hangar) - [Website](https://eduardoalparov.github.io/accent-Hangar/)
+- #### [Спецтехника](https://eduardoalparov.github.io/spectechnika/)
+- #### [АНГАРСТРОЙ](https://eduardoalparov.github.io/accent-Hangar/)
 - #### PC Profsnab(ПК Профснаб) - [GitHub](https://github.com/EduardoAlparov/PROFSNAB) - [Website](https://pk-profsnab.ru/)
 - #### 4*4Vec (Вездеход) - [GitHub](https://github.com/EduardoAlparov/coolslider) - [Website](https://eduardoalparov.github.io/coolslider)
 - #### LoginivAgency - [[https://aaccent.github.io/loginov_layout/](https://aaccent.github.io/loginov_layout/)]
