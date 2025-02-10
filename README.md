@@ -31,6 +31,12 @@
 
 ## Кейсы:
 
+- #### [Дом хлеба](https://eduardoalparov.github.io/bread-house/)
+- #### [Изумруд](https://izumrud.markweber.ru/)
+- #### [«СУ-90»](https://su-90.ru/)
+- #### [Скат](http://www.skat-rt.ru/)
+- #### [Суварстроит](https://suvarstroit.ru/)
+- #### [Русагрострой12](https://xn--12-6kcm4a3aamcbgenh.xn--p1ai/dub_park/)
 - #### [Агентство Логинов](https://loginov.agency/)
 - #### [Торговый порт Певек](https://morport-pevek.ru/)
 - #### [Сервис проверки авто Checking Carriers](https://info.checking-carriers.ru/)
@@ -46,6 +52,7 @@
 - #### [Optimus-bed](https://optimusbed.ru/)
 - #### [Мак ЭКО](https://mac-ivf.ru/bank-donorov/)
 - #### [PVP-Logistics](http://pvp-logistics.ru/)
+- #### [Eden](https://eduardoalparov.github.io/eden/)
 - #### [Кузляр](https://kyzler.ru/)
 
 <details>
